@@ -3,6 +3,9 @@
 //Date -
 //Class -
 //Lab  -
+//im so sorry, the last two weeks have been some of the worst in my life and i couldn't even get started on this yesterday. im so sorry.
+//i know this won't change anything, but i'd like to at least give some sort of explanation for this.
+
 
 import java.io.File;
 import java.io.IOException;
